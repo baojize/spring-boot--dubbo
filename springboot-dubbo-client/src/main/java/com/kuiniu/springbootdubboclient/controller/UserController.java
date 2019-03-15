@@ -39,5 +39,6 @@ public class UserController {
         User user = new User();
         int i = userService.insertOne(user);
         return i;
+
     }
 }
