@@ -1,4 +1,4 @@
-package com.kuiniu.springbootdubboclient.controller;
+package com.kuiniu.springbootdubboclient;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
